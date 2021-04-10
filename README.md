@@ -14,7 +14,7 @@ All problems are composed of two parts.
 |   06   |      |      |      |      | [:heavy_check_mark:](2020/6-1.py)[:heavy_check_mark:](2020/6-2.py) |
 |   07   |      |      |      |      | [:heavy_check_mark:](2020/7-1.py)[:heavy_check_mark:](2020/7-2.py) |
 |   08   |      |      |      |      | [:heavy_check_mark:](2020/8-1.py)[:heavy_check_mark:](2020/8-2.py) |
-|   09   |      |      |      |      |      |
+|   09   |      |      |      |      | [:heavy_check_mark:](2020/9-1.py) |
 |   10   |      |      |      |      |      |
 |   11   |      |      |      |      |      |
 |   12   |      |      |      |      |      |
