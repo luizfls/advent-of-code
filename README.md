@@ -18,7 +18,7 @@ All problems are composed of two parts.
 |   10   |      |      |      |      | [:heavy_check_mark:](2020/10-1.py)[:heavy_check_mark:](2020/10-2.py) |
 |   11   |      |      |      |      | [:heavy_check_mark:](2020/11-1.py)[:heavy_check_mark:](2020/11-2.py) |
 |   12   |      |      |      |      | [:heavy_check_mark:](2020/12-1.py)[:heavy_check_mark:](2020/12-2.py) |
-|   13   |      |      |      |      |      |
+|   13   |      |      |      |      | [:heavy_check_mark:](2020/13-1.py) |
 |   14   |      |      |      |      |      |
 |   15   |      |      |      |      |      |
 |   16   |      |      |      |      |      |
