@@ -1,4 +1,5 @@
 from collections import deque
+from collections import defaultdict
 
 with open("input7.txt", "r") as f:
     lines = f.read().splitlines()
@@ -11,18 +12,13 @@ def line2colors(s):
         colors.append(s[i] + ' ' + s[i + 1])
     return colors
 
-g = {}
+g = defaultdict(list)
 for line in lines:
     if line[-14:-1] == 'no other bags':
         continue
     colors = line2colors(line)
-    if colors[0] not in g:
-        g[colors[0]] = []
     for color in colors[1:]:
-        if color not in g:
-            g[color] = [colors[0]]
-        else:
-            g[color].append(colors[0])
+        g[color].append(colors[0])
 
 def count(g, color):
     visited = set()
