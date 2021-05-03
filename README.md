@@ -22,7 +22,7 @@ All problems are composed of two parts.
 |   14   |      |      |      |      | [:heavy_check_mark:](2020/14-1.py)[:heavy_check_mark:](2020/14-2.py) |
 |   15   |      |      |      |      | [:heavy_check_mark:](2020/15-1.py)[:heavy_check_mark:](2020/15-2.py) |
 |   16   |      |      |      |      | [:heavy_check_mark:](2020/16-1.py)[:heavy_check_mark:](2020/16-2.py) |
-|   17   |      |      |      |      |      |
+|   17   |      |      |      |      | [:heavy_check_mark:](2020/17-1.py) |
 |   18   |      |      |      |      |      |
 |   19   |      |      |      |      |      |
 |   20   |      |      |      |      |      |
