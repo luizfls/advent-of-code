@@ -27,7 +27,7 @@ All problems are composed of two parts.
 |   19   |      |      |      |      |      |
 |   20   |      |      |      |      |      |
 |   21   |      |      |      |      |      |
-|   22   |      |      |      |      | [:heavy_check_mark:](2020/22-1.py) |
+|   22   |      |      |      |      | [:heavy_check_mark:](2020/22-1.py)[:heavy_check_mark:](2020/22-2.py) |
 |   23   |      |      |      |      |      |
 |   24   |      |      |      |      |      |
 |   25   |      |      |      |      |      |
