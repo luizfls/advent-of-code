@@ -28,6 +28,6 @@ All problems are composed of two parts.
 |   20   |      |      |      |      |      |
 |   21   |      |      |      |      |      |
 |   22   |      |      |      |      | [:heavy_check_mark:](2020/22-1.py)[:heavy_check_mark:](2020/22-2.py) |
-|   23   |      |      |      |      |      |
+|   23   |      |      |      |      | [:heavy_check_mark:](2020/23-1.py) |
 |   24   |      |      |      |      |      |
 |   25   |      |      |      |      |      |
